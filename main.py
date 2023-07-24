@@ -1,6 +1,6 @@
 
 
-print("Hola Mundo")
+print("Hola Mundo saludos desde Salta")
 
 
 x=int(input("ingrese numero:"))
